@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b33e55b8-062b-4864-bf1b-a35e1576d7f6" name="Apache XAMPP" url="http://localhost/Bookshelf">
-        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
+      <webServer id="b33e55b8-062b-4864-bf1b-a35e1576d7f6" name="Apache XAMPP" url="http://localhost/Bookshelf_server">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\Bookshelf_server" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>

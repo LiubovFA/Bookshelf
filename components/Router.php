@@ -29,7 +29,7 @@ class Router
     {
         //Получить стоку запроса
         $uri = $this->getURI();
-        //echo $uri.' ';
+        echo $uri.' ';
 
         //Проверить наличие такого запроса в routes
         foreach ($this->routes as $uriPattern => $path) {

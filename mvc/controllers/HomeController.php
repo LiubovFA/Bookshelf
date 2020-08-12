@@ -16,7 +16,7 @@ class HomeController
 
 
 
-        echo 'Home Controller.List() is executed';
+        echo 'Home Controller.List() is executed!';
         return true;
     }
 

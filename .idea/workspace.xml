@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c19682-1b00-4016-80e3-cd923efcdb07" name="Default Changelist" comment="" />
+    <list default="true" id="93c19682-1b00-4016-80e3-cd923efcdb07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/components/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/controllers/HomeController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1fzbupjznhU3qhpS4uXmBp8R9EP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,14 +46,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/Bookshelf_server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\components" />
       <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\config" />
+      <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\components" />
       <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\mvc\controllers" />
     </key>
   </component>
@@ -39,25 +76,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597224093401</updated>
-      <workItem from="1597224094564" duration="930000" />
+      <workItem from="1597224094564" duration="2012000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1597225681295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1597225681295" />
     <state x="428" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597224727761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="428" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597224727761" />
-    <state x="340" y="189" key="FileChooserDialogImpl" timestamp="1597224908187">
+    <state x="340" y="189" key="FileChooserDialogImpl" timestamp="1597225990784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="340" y="189" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597224908187" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1597225027246">
+    <state x="340" y="189" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597225990784" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1597225999016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597225027246" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597225999016" />
   </component>
 </project>
