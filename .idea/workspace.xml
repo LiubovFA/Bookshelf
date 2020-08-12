@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93c19682-1b00-4016-80e3-cd923efcdb07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fzbupjznhU3qhpS4uXmBp8R9EP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/Bookshelf_server" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\components" />
+      <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\config" />
+      <recent name="C:\Users\daugh\PhpstormProjects\Bookshelf\mvc\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93c19682-1b00-4016-80e3-cd923efcdb07" name="Default Changelist" comment="" />
+      <created>1597224093401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597224093401</updated>
+      <workItem from="1597224094564" duration="930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597224727761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597224727761" />
+    <state x="340" y="189" key="FileChooserDialogImpl" timestamp="1597224908187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="340" y="189" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597224908187" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1597225027246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597225027246" />
+  </component>
+</project>
