@@ -1,10 +1,20 @@
 <?php
 
+include_once ROOT.'/models/Book.php';
+
+
 class HomeController
 {
     //вывод списка книг
     public function List()
     {
+        $book_array = array();
+        $book_array = Book::getBookList();
+
+        echo '<pre>';
+        print_r($book_array);
+        echo '</pre>';
+
         /*
         $original_str = '12-08-2020';
 
@@ -14,15 +24,12 @@ class HomeController
 
         echo preg_replace($pattern, $placement, $original_str);*/
 
-
-
-        echo 'Home Controller.List() is executed!';
         return true;
     }
 
     public function Open()
     {
-        echo 'opened';
+        echo 'HomeController.Open() is executed!';
         return true;
     }
 

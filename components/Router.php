@@ -5,7 +5,7 @@ namespace config;
 class Router
 {
     private $routes = [];
-    private $params = [];
+    //private $params = [];
 
     function __construct()
     {
@@ -34,20 +34,28 @@ class Router
         //Проверить наличие такого запроса в routes
         foreach ($this->routes as $uriPattern => $path) {
             if (preg_match("~$uriPattern~", $uri)) {
-                //При совпадении определить контроллер и экшен
-                // echo $uriPattern.' ';
 
-                $segments = explode('/', $path);
-                $controllerName = array_shift($segments) . 'Controller';
+                 echo $uriPattern.' ';
+
+                //получаем внутренний путь согласно правилу
+                $internalPath = preg_replace("~$uriPattern~", $path, $uri);
+                echo $internalPath.' ';
+
+                //При совпадении определить контроллер, экшен и параметры
+                $segments = explode('/', $internalPath);
+
+                $controllerName = array_shift($segments).'Controller';
                 $controllerName = ucfirst($controllerName);
-                // echo $controllerName.' '.$segments[0];
 
-                $methodName = ucfirst($segments[0]);
+                $methodName = ucfirst(array_shift($segments));
                 //echo $methodName;
+                $params = $segments;
 
-                /*  echo '<pre>';
-                  print_r($segments);
-                  echo '</pre>';*/
+                echo 'Контроллер: '.$controllerName.'; Метод: '.$methodName;
+
+                echo '<pre>';
+                print_r($params);
+                echo '</pre>';
 
                 //Подключить файл класса-контроллера
                 $controllerFile = ROOT . '/mvc/controllers/' . $controllerName . '.php';
